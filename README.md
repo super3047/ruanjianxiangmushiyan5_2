@@ -6,7 +6,7 @@
 ## 各打印两张石头剪刀布训练集图片
 ![image](https://github.com/user-attachments/assets/ac502113-b949-4cc6-9477-40a75b461483)
 ## 调用TensorFlow的keras进行数据模型的训练和评估
-![image](https://github.com/user-attachments/assets/ff1e65e0-165c-4bde-b92e-55f9ffc6f574)
+![image](https://github.com/user-attachments/assets/0089ccd9-b359-4866-addd-f28143640dff)
 ![image](https://github.com/user-attachments/assets/f0d7a661-3a68-4d0a-a23b-b1c01ac47540)
 ![image](https://github.com/user-attachments/assets/01e6ed2f-d961-4057-8194-13c7e1ff3a4e)
 ![image](https://github.com/user-attachments/assets/4f82e4d7-b182-48bd-bc06-17768ffc2124)
